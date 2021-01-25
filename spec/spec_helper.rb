@@ -1,3 +1,5 @@
+require 'active_job'
+require 'active_support'
 require 'gush'
 require 'fakeredis'
 require 'json'
